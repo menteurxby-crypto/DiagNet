@@ -41,5 +41,5 @@ We may update these terms of service from time to time. Any changes will be noti
 If you have any questions or concerns, please contact us at:
 
 - Email: menteurxby@gmail.com
-- GitHub: https://github.com/menteurxby-crypto/DiagNet/blob/main/PRIVACY.md
+- GitHub: https://github.com/menteurxby-crypto/DiagNet/blob/main/EULA.md
 © 2025 DiagNet. All rights reserved.
