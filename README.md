@@ -29,8 +29,6 @@ DiagNet is a powerful network diagnostic tool designed for both casual users and
 - GitHub Issues : Submit Issues and Feedback
 - Email : menteurxby@gmail.com
 ## Privacy Policy
-DiagNet respects your privacy. All network data is processed locally on your device only. We never collect or share your personal information.
-
 Full Privacy Policy: https://github.com/menteurxby-crypto/DiagNet/blob/main/PRIVACY.md
 
 ## Copyright
